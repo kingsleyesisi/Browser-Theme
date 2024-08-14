@@ -17,7 +17,7 @@ setInterval(() => {
     } else {
         text.textContent = 'Good Night,';
     }
-}, 1000); // Update every second
+}); // Update every second
 
 // Handle the Search
 const searchInput = document.querySelector('input');
