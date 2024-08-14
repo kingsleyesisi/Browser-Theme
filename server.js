@@ -8,7 +8,7 @@ import fetch from 'node-fetch'; // Import node-fetch for making HTTP requests
 
 // Fetch API Key from environment variables
 //const API_KEY = process.env.API_KEY;
-const API_KEY = d5f5e05626d54e4b878161323240408
+const API_KEY = 'd5f5e05626d54e4b878161323240408'
 
 // MIME type mapping
 const mimeTypes = {
